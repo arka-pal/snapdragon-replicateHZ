@@ -1,14 +1,18 @@
 ### File Types ###
 **/jobs
+**/*.vcf.info
 **/*.vcf.gz*
 **/*.ipynb_checkpoints
 **/*.DS_Store
 */.DS_Store
 **/~*
-
+**/*.phy
+**/*.pos
+**/*.geno*
 
 ### Folders ###
 
 ### Specific subfolder/files ###
+Admixture/input/
+Stitch/Chr?
 
-##
