@@ -1,8 +1,6 @@
 ### File Types ###
-**/*.sync
+**/jobs
 **/*.vcf.gz*
-**/*.gt
-**/*.pos
 **/*.ipynb_checkpoints
 **/*.DS_Store
 */.DS_Store
@@ -10,57 +8,7 @@
 
 
 ### Folders ###
-Amajus_poolSeq
-Amolle_syncFiles
-bams
-fastq
-misc_toSort
-
 
 ### Specific subfolder/files ###
 
-## Amajus_alleles_ancestral
-Amajus_alleles_ancestral/pos
-Amajus_alleles-ancestral/alleleDat_chrom
-Amajus_alleles-ancestral/allelePolarised_chrom
-
-## ARGs
-ARGs/sg_run1-2024May_RosEl-MY3
-ARGs/ts_run3-20240603_pmFRpyYe-hCov/*.samples
-ARGs/ts_run3-20240603_pmFRpyYe-hCov/*.trees
-ARGs/ts_run3-20240603_pmFRpyYe-hCov/ts.RosEl.pmFRpyYe.samples
-ARGs/ts_run3-20240603_pmFRpyYe-hCov/ts.RosEl.pmFRpyYe.trees
-
-## bamqc
-bamqc/indv_bamqc
-bamqc/multi_bamqc
-
-## genome_scans
-genome_scans/_figures/plt_dp-MF-YF_perSite.pdf
-genome_scans/vcf_regions/*vcf*
-genome_scans/pops_MF_YF
-genome_scans/jobs
-
-##phaseComparison
-phaseComparison/misc_old
-phaseComparison/run1-240126
-
-## recRate
-recRate/Chr?.*
-recRate/jobs
-
-
-## ref_genome
-ref_genome/v3.5
-
-## variants
-variants
-
-## wrath
-wrath/AURINA
-wrath/CREMOSA
-wrath/FLAVIA
-wrath/ROSEL
-wrath/RUBIA
-wrath/SULF
-
+##
