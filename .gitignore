@@ -9,6 +9,7 @@
 **/*.phy
 **/*.pos
 **/*.geno*
+**/*.csv.gz
 
 ### Folders ###
 
