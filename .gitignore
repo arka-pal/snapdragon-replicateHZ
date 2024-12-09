@@ -12,11 +12,13 @@
 **/*.csv.gz
 
 ### Folders ###
+./flower_photos
 
 ### Specific subfolder/files ###
-Admixture/input/
-relate/Chr?
-relate/**/*.gz
-relate/estimateSelection
-Stitch/Chr?
+./ancestral_alleles/**/*.pos
+./Admixture/input/
+./relate/Chr?
+./relate/**/*.gz
+./relate/estimateSelection
+./Stitch/Chr?
 
