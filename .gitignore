@@ -15,5 +15,8 @@
 
 ### Specific subfolder/files ###
 Admixture/input/
+relate/Chr?
+relate/**/*.gz
+relate/estimateSelection
 Stitch/Chr?
 
