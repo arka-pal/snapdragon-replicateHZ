@@ -49,4 +49,4 @@ K=$2
 
 ## Run admixture
 ## -----
-srun admixture $input $K
+srun admixture --cv $input $K
