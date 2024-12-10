@@ -13,7 +13,11 @@
 **/*.pos
 **/*.geno*
 **/*.csv.gz
+**/*.frq.gz
+**/*.hwe.gz
 **/*.trees
+**/*.log
+**/*.weir.fst
 
 
 ### ------- ###
@@ -23,6 +27,9 @@
 Admixture/input/
 ancestral_alleles/allelePolarised_chrom/
 flower_photos/
+genome_scans/alleleFreqs/
+genome_scans/_figures/
+
 recRate/
 recRate_bySnps/
 relate/estimateSelection/
@@ -36,6 +43,8 @@ ancestral_alleles/**/*.pos
 
 relate/Chr?
 relate/**/*.gz
+
+statphase/AvePla_*/
 
 Stitch/Chr?
 
