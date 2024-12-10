@@ -27,13 +27,21 @@
 Admixture/input/
 ancestral_alleles/allelePolarised_chrom/
 flower_photos/
+
 genome_scans/alleleFreqs/
 genome_scans/_figures/
+genome_scans/hardy/
+genome_scans/sitePi/
 
 recRate/
 recRate_bySnps/
-relate/estimateSelection/
 
+relate/estimateSelection/
+relate/newickTrees/
+relate/treeViews/
+
+singer/input/
+singer/runs/
 
 ### ------------------------ ###
 ### Specific subfolder/files ###
