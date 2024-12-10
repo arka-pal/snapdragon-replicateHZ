@@ -1,5 +1,8 @@
-### File Types ###
-**/jobs
+### ----------------- ###
+### File/Folder Types ###
+### ----------------- ###
+
+**/jobs/
 **/*.vcf.info
 **/*.vcf.gz*
 **/*.ipynb_checkpoints
@@ -10,18 +13,35 @@
 **/*.pos
 **/*.geno*
 **/*.csv.gz
+**/*.trees
 
+
+### ------- ###
 ### Folders ###
+### ------- ###
+
 Admixture/input/
+ancestral_alleles/allelePolarised_chrom/
 flower_photos/
 recRate/
 recRate_bySnps/
 relate/estimateSelection/
 
+
+### ------------------------ ###
 ### Specific subfolder/files ###
+### ------------------------ ###
+
 ancestral_alleles/**/*.pos
+
 relate/Chr?
 relate/**/*.gz
+
 Stitch/Chr?
+
+tsinfer/sampleData/
+
 twisst/_figures/twisst_relate*
 twisst/**/*.tsv*
+twisst/trees_*/
+
