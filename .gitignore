@@ -13,15 +13,15 @@
 
 ### Folders ###
 Admixture/input/
-./flower_photos/
-./recRate/
-./recRate_bySnps/
-./relate/estimateSelection/
+flower_photos/
+recRate/
+recRate_bySnps/
+relate/estimateSelection/
 
 ### Specific subfolder/files ###
-./ancestral_alleles/**/*.pos
-./relate/Chr?
-./relate/**/*.gz
-./Stitch/Chr?
-./twisst/_figures/twisst_relate*
-./twisst/**/*.tsv*
+ancestral_alleles/**/*.pos
+relate/Chr?
+relate/**/*.gz
+Stitch/Chr?
+twisst/_figures/twisst_relate*
+twisst/**/*.tsv*
