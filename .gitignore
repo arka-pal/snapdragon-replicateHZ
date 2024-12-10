@@ -12,7 +12,7 @@
 **/*.csv.gz
 
 ### Folders ###
-./Admixture/input/
+Admixture/input/
 ./flower_photos/
 ./recRate/
 ./recRate_bySnps/
