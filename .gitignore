@@ -21,4 +21,5 @@
 ./relate/**/*.gz
 ./relate/estimateSelection
 ./Stitch/Chr?
-
+./twisst/_figures/twisst_relate*
+./twisst/**/*.tsv*
