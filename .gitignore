@@ -18,6 +18,7 @@
 **/*.trees
 **/*.log
 **/*.weir.fst
+**/*.out
 
 
 ### ------- ###
@@ -57,6 +58,8 @@ statphase/AvePla_*/
 Stitch/Chr?
 
 tsinfer/sampleData/
+tsinfer/infer+analysis/
+tsinfer/newickTreeList/
 
 twisst/_figures/twisst_relate*
 twisst/**/*.tsv*
