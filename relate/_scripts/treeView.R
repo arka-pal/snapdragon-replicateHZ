@@ -18,9 +18,9 @@ tree_lwd            <- 3
 #mutation size
 mut_size            <- 10
 #size of | indicating population label
-poplabels_shapesize <- 10 
+poplabels_shapesize <- 5 
 #population label text size
-poplabels_textsize  <- 30
+poplabels_textsize  <- 15
 
 ##################################################################################
 
@@ -54,7 +54,7 @@ TreeView <- function(filename_plot, years_per_gen, axis_textsize, ...){
                                   # legend.key.width= unit(3, "line"),
                                   # legend.key.height= unit(1.5, "line"),
                                   # legend.text=element_text(size=35),
-                                  strip.text = element_text(face="bold"), plot.margin = margin(t = 0, r = 20, b = 60, l = 30, unit = "pt")) + 
+                                  strip.text = element_text(face="bold"), plot.margin = margin(t = 5, r = 20, b = 20, l = 20, unit = "pt")) + 
                              scale_x_continuous(limits = c(0, max(plotcoords$x_begin)+1)) + scale_y_continuous(limits = c(0, max(plotcoords$y_end)))
 
   return(p)
@@ -140,7 +140,7 @@ PopLabels <- function(filename_plot, filename_poplabels,
                                   panel.background=element_blank(),panel.border=element_blank(),panel.grid.major=element_blank(),
                                   panel.grid.minor=element_blank(),plot.background=element_blank(), 
                                   strip.background=element_rect(colour="#f0f0f0",fill="#f0f0f0"),
-                                  strip.text = element_text(face="bold"), plot.margin = margin(t = 0, r = 20, b = 60, l = 60, unit = "pt")) +
+                                  strip.text = element_text(face="bold"), plot.margin = margin(t = 5, r = 20, b = 20, l = 20, unit = "pt")) +
                 guides(color = 'none', shape = 'none') + 
                 scale_color_manual(values = rep(c('magenta', 'gold3'),2)) +
                 scale_x_continuous(limits = c(0, max(tips$x_begin)+1))
@@ -216,6 +216,43 @@ drawTree = function(PATH_TO_RELATE='~/_softwares/relate_v1.2.2',
 
     finalPlot = plot_grid(p1, p2, rel_heights = ratio, labels = "", align = "v", ncol = 1)
     return(finalPlot)
+}
+
+#################################################################################
+drawTreeRaw = function(PATH_TO_RELATE='~/_softwares/relate_v1.2.2', 
+                    filename_haps, filename_sample, filename_anc, filename_mut,
+                    filename_poplabels='./AvePla.MY.n74.poplabels',
+                    years_per_gen, snp, filename_plot,
+                    geneName, makeFiles = FALSE, 
+                    tree_lwd=0.5, axis_textsize=15, mut_size=5, 
+                    shape='|', poplabels_shapesize=8, poplabels_textsize=20, 
+                    ratio=c(10,4)){
+  
+  # if(makeFiles == TRUE){
+  #   ## run RelateTreeView to extract tmp files for plotting tree
+  #   system(paste0(PATH_TO_RELATE, "/bin/RelateTreeView --mode TreeView --anc ", filename_anc, " --mut ", filename_mut, " --snp_of_interest ", as.integer(snp), " -o ", filename_plot))
+  #   system(paste0(PATH_TO_RELATE, "/bin/RelateTreeView --mode MutationsOnBranches --anc ", filename_anc, " --mut ", filename_mut, " --haps ", filename_haps, " --sample ", filename_sample, " --snp_of_interest ", as.integer(snp), " -o ", filename_plot))
+  # }
+  
+  
+  ## Plot tree
+  p1 <- TreeView(filename_plot, years_per_gen, lwd = tree_lwd, axis_textsize) + 
+    AddMutations(filename_plot, filename_mut, years_per_gen, size = mut_size) #+ 
+  #scale_y_continuous(trans = "log10")
+  
+  # # some modifications to theme
+  # p1 <- p1 + theme(axis.text.y = element_text(size = rel(2.3)), 
+  #                  legend.title = element_text(size = rel(1)), 
+  #                  legend.text = element_text(size = rel(1)))  +  
+  #            scale_color_manual(labels = c("unflipped", "flipped"), values = c("red", "blue"), drop = FALSE) +
+  #            guides(color = guide_legend(nrow = 2, title = "")) 
+  
+  ## plot population label
+  p2 <- PopLabels(filename_plot, filename_poplabels, 
+                  shape, poplabels_shapesize, poplabels_textsize)
+  
+  finalPlot = plot_grid(p1, p2, rel_heights = ratio, labels = "", align = "v", ncol = 1)
+  return(finalPlot)
 }
 
 #################################################################################
