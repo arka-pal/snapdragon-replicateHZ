@@ -1,75 +1,75 @@
-PlantID	Pool	HZ	ID	Long	Color_Pool	Color_HZ
-n96_Am_Pla_z2711_v3.5	Pla_Y	Pla	67	2.061967047	blue	red
-n96_Am_Pla_z2008_v3.5	Pla_Y	Pla	63	2.062047337	blue	red
-n96_Am_Pla_z0347_v3.5	Pla_Y	Pla	58	2.062415859	blue	red
-n96_Am_Pla_z3891_v3.5	Pla_Y	Pla	68	2.062697473	blue	red
-n96_Am_Pla_z2020_v3.5	Pla_Y	Pla	65	2.06272073	blue	red
-n96_Am_Pla_z5444_v3.5	Pla_Y	Pla	73	2.063280532	blue	red
-n96_Am_Pla_z4793_v3.5	Pla_Y	Pla	71	2.063297364	blue	red
-n96_Am_Pla_z4758_v3.5	Pla_Y	Pla	69	2.063343366	blue	red
-n96_Am_Pla_z0847_v3.5	Pla_Y	Pla	59	2.06416347	blue	red
-n96_Am_Pla_z4783_v3.5	Pla_Y	Pla	70	2.064393839	blue	red
-n96_Am_Pla_z2706_v3.5	Pla_Y	Pla	66	2.064503601	blue	red
-n96_Am_Pla_z0169_v3.5	Pla_Y	Pla	57	2.06488582	blue	red
-n96_Am_Pla_z2018_v3.5	Pla_Y	Pla	64	2.064902788	blue	red
-n96_Am_Pla_z1802_v3.5	Pla_Y	Pla	62	2.064910802	blue	red
-n96_Am_Pla_z0852_v3.5	Pla_Y	Pla	60	2.065055654	blue	red
-n96_Am_Pla_z4797_v3.5	Pla_Y	Pla	72	2.070664005	blue	red
-n96_Am_Pla_z0854_v3.5	Pla_Y	Pla	61	NA	blue	red
-n96_Am_Pla_z5451_v3.5	Pla_Y	Pla	74	NA	blue	red
-n96_Am_Pla_z2287_v3.5	Pla_FR	Pla	46	2.081924361	red	red
-n96_Am_Pla_z2296_v3.5	Pla_FR	Pla	52	2.081925299	red	red
-n96_Am_Pla_z2300_v3.5	Pla_FR	Pla	54	2.081929359	red	red
-n96_Am_Pla_z2281_v3.5	Pla_FR	Pla	43	2.081933918	red	red
-n96_Am_Pla_z0713_v3.5	Pla_FR	Pla	40	2.081934964	red	red
-n96_Am_Pla_z2286_v3.5	Pla_FR	Pla	45	2.081954368	red	red
-n96_Am_Pla_z2294_v3.5	Pla_FR	Pla	50	2.081961153	red	red
-n96_Am_Pla_z2292_v3.5	Pla_FR	Pla	48	2.081963851	red	red
-n96_Am_Pla_z4712_v3.5	Pla_FR	Pla	56	2.081965884	red	red
-n96_Am_Pla_z2295_v3.5	Pla_FR	Pla	51	2.081973936	red	red
-n96_Am_Pla_z4710_v3.5	Pla_FR	Pla	55	2.081975459	red	red
-n96_Am_Pla_z2293_v3.5	Pla_FR	Pla	49	2.081978164	red	red
-n96_Am_Pla_z2290_v3.5	Pla_FR	Pla	47	2.081978279	red	red
-n96_Am_Pla_z2298_v3.5	Pla_FR	Pla	53	2.081979136	red	red
-n96_Am_Pla_z2283_v3.5	Pla_FR	Pla	44	2.081999912	red	red
-n96_Am_Pla_z1778_v3.5	Pla_FR	Pla	41	2.082552166	red	red
-n96_Am_Pla_z2046_v3.5	Pla_FR	Pla	42	2.082707483	red	red
-n96_Am_Pla_z0704_v3.5	Pla_FR	Pla	39	NA	red	red
-n96_Am_Ave_x4128_v3.5	Ave_Y	Ave	20	NA	gold3	blue
-n96_Am_Ave_x4129_v3.5	Ave_Y	Ave	21	NA	gold3	blue
-n96_Am_Ave_x4134_v3.5	Ave_Y	Ave	22	NA	gold3	blue
-n96_Am_Ave_x4137_v3.5	Ave_Y	Ave	23	NA	gold3	blue
-n96_Am_Ave_x4140_v3.5	Ave_Y	Ave	24	NA	gold3	blue
-n96_Am_Ave_x4148_v3.5	Ave_Y	Ave	25	NA	gold3	blue
-n96_Am_Ave_x4149_v3.5	Ave_Y	Ave	26	NA	gold3	blue
-n96_Am_Ave_x4150_v3.5	Ave_Y	Ave	27	NA	gold3	blue
-n96_Am_Ave_x4153_v3.5	Ave_Y	Ave	28	NA	gold3	blue
-n96_Am_Ave_x4155_v3.5	Ave_Y	Ave	29	NA	gold3	blue
-n96_Am_Ave_x4158_v3.5	Ave_Y	Ave	30	NA	gold3	blue
-n96_Am_Ave_x4159_v3.5	Ave_Y	Ave	31	NA	gold3	blue
-n96_Am_Ave_x4392_v3.5	Ave_Y	Ave	32	NA	gold3	blue
-n96_Am_Ave_x4463_v3.5	Ave_Y	Ave	33	NA	gold3	blue
-n96_Am_Ave_x4477_v3.5	Ave_Y	Ave	34	NA	gold3	blue
-n96_Am_Ave_x4491_v3.5	Ave_Y	Ave	35	NA	gold3	blue
-n96_Am_Ave_x4570_v3.5	Ave_Y	Ave	36	NA	gold3	blue
-n96_Am_Ave_x4579_v3.5	Ave_Y	Ave	37	NA	gold3	blue
-n96_Am_Ave_x4580_v3.5	Ave_Y	Ave	38	NA	gold3	blue
-n96_Am_Ave_x3318_v3.5	Ave_FR	Ave	1	NA	magenta3	blue
-n96_Am_Ave_x3327_v3.5	Ave_FR	Ave	2	NA	magenta3	blue
-n96_Am_Ave_x3333_v3.5	Ave_FR	Ave	3	NA	magenta3	blue
-n96_Am_Ave_x3394_v3.5	Ave_FR	Ave	4	NA	magenta3	blue
-n96_Am_Ave_x4101_v3.5	Ave_FR	Ave	5	NA	magenta3	blue
-n96_Am_Ave_x4102_v3.5	Ave_FR	Ave	6	NA	magenta3	blue
-n96_Am_Ave_x4116_v3.5	Ave_FR	Ave	7	NA	magenta3	blue
-n96_Am_Ave_x4161_v3.5	Ave_FR	Ave	8	NA	magenta3	blue
-n96_Am_Ave_x4178_v3.5	Ave_FR	Ave	9	NA	magenta3	blue
-n96_Am_Ave_x4359_v3.5	Ave_FR	Ave	10	NA	magenta3	blue
-n96_Am_Ave_x4429_v3.5	Ave_FR	Ave	11	NA	magenta3	blue
-n96_Am_Ave_x4459_v3.5	Ave_FR	Ave	12	NA	magenta3	blue
-n96_Am_Ave_x4585_v3.5	Ave_FR	Ave	13	NA	magenta3	blue
-n96_Am_Ave_x4593_v3.5	Ave_FR	Ave	14	NA	magenta3	blue
-n96_Am_Ave_x4608_v3.5	Ave_FR	Ave	15	NA	magenta3	blue
-n96_Am_Ave_x4624_v3.5	Ave_FR	Ave	16	NA	magenta3	blue
-n96_Am_Ave_x4786_v3.5	Ave_FR	Ave	17	NA	magenta3	blue
-n96_Am_Ave_x4837_v3.5	Ave_FR	Ave	18	NA	magenta3	blue
-n96_Am_Ave_x4867_v3.5	Ave_FR	Ave	19	NA	magenta3	blue
+PlantID	FlowerColor	Pool	HZ	ID	Long	Color_Pool	Color_HZ
+n96_Am_Pla_z2711_v3.5	Y	Pla_Y	Pla	67	2.061967047	blue	red
+n96_Am_Pla_z2008_v3.5	Y	Pla_Y	Pla	63	2.062047337	blue	red
+n96_Am_Pla_z0347_v3.5	Y	Pla_Y	Pla	58	2.062415859	blue	red
+n96_Am_Pla_z3891_v3.5	Y	Pla_Y	Pla	68	2.062697473	blue	red
+n96_Am_Pla_z2020_v3.5	Y	Pla_Y	Pla	65	2.06272073	blue	red
+n96_Am_Pla_z5444_v3.5	Y	Pla_Y	Pla	73	2.063280532	blue	red
+n96_Am_Pla_z4793_v3.5	Y	Pla_Y	Pla	71	2.063297364	blue	red
+n96_Am_Pla_z4758_v3.5	Y	Pla_Y	Pla	69	2.063343366	blue	red
+n96_Am_Pla_z0847_v3.5	Y	Pla_Y	Pla	59	2.06416347	blue	red
+n96_Am_Pla_z4783_v3.5	Y	Pla_Y	Pla	70	2.064393839	blue	red
+n96_Am_Pla_z2706_v3.5	Y	Pla_Y	Pla	66	2.064503601	blue	red
+n96_Am_Pla_z0169_v3.5	Y	Pla_Y	Pla	57	2.06488582	blue	red
+n96_Am_Pla_z2018_v3.5	Y	Pla_Y	Pla	64	2.064902788	blue	red
+n96_Am_Pla_z1802_v3.5	Y	Pla_Y	Pla	62	2.064910802	blue	red
+n96_Am_Pla_z0852_v3.5	Y	Pla_Y	Pla	60	2.065055654	blue	red
+n96_Am_Pla_z4797_v3.5	Y	Pla_Y	Pla	72	2.070664005	blue	red
+n96_Am_Pla_z0854_v3.5	Y	Pla_Y	Pla	61	NA	blue	red
+n96_Am_Pla_z5451_v3.5	Y	Pla_Y	Pla	74	NA	blue	red
+n96_Am_Pla_z2287_v3.5	FR	Pla_FR	Pla	46	2.081924361	red	red
+n96_Am_Pla_z2296_v3.5	FR	Pla_FR	Pla	52	2.081925299	red	red
+n96_Am_Pla_z2300_v3.5	FR	Pla_FR	Pla	54	2.081929359	red	red
+n96_Am_Pla_z2281_v3.5	FR	Pla_FR	Pla	43	2.081933918	red	red
+n96_Am_Pla_z0713_v3.5	FR	Pla_FR	Pla	40	2.081934964	red	red
+n96_Am_Pla_z2286_v3.5	FR	Pla_FR	Pla	45	2.081954368	red	red
+n96_Am_Pla_z2294_v3.5	FR	Pla_FR	Pla	50	2.081961153	red	red
+n96_Am_Pla_z2292_v3.5	FR	Pla_FR	Pla	48	2.081963851	red	red
+n96_Am_Pla_z4712_v3.5	FR	Pla_FR	Pla	56	2.081965884	red	red
+n96_Am_Pla_z2295_v3.5	FR	Pla_FR	Pla	51	2.081973936	red	red
+n96_Am_Pla_z4710_v3.5	FR	Pla_FR	Pla	55	2.081975459	red	red
+n96_Am_Pla_z2293_v3.5	FR	Pla_FR	Pla	49	2.081978164	red	red
+n96_Am_Pla_z2290_v3.5	FR	Pla_FR	Pla	47	2.081978279	red	red
+n96_Am_Pla_z2298_v3.5	FR	Pla_FR	Pla	53	2.081979136	red	red
+n96_Am_Pla_z2283_v3.5	FR	Pla_FR	Pla	44	2.081999912	red	red
+n96_Am_Pla_z1778_v3.5	FR	Pla_FR	Pla	41	2.082552166	red	red
+n96_Am_Pla_z2046_v3.5	FR	Pla_FR	Pla	42	2.082707483	red	red
+n96_Am_Pla_z0704_v3.5	FR	Pla_FR	Pla	39	NA	red	red
+n96_Am_Ave_x4128_v3.5	Y	Ave_Y	Ave	20	NA	gold3	blue
+n96_Am_Ave_x4129_v3.5	Y	Ave_Y	Ave	21	NA	gold3	blue
+n96_Am_Ave_x4134_v3.5	Y	Ave_Y	Ave	22	NA	gold3	blue
+n96_Am_Ave_x4137_v3.5	Y	Ave_Y	Ave	23	NA	gold3	blue
+n96_Am_Ave_x4140_v3.5	Y	Ave_Y	Ave	24	NA	gold3	blue
+n96_Am_Ave_x4148_v3.5	Y	Ave_Y	Ave	25	NA	gold3	blue
+n96_Am_Ave_x4149_v3.5	Y	Ave_Y	Ave	26	NA	gold3	blue
+n96_Am_Ave_x4150_v3.5	Y	Ave_Y	Ave	27	NA	gold3	blue
+n96_Am_Ave_x4153_v3.5	Y	Ave_Y	Ave	28	NA	gold3	blue
+n96_Am_Ave_x4155_v3.5	Y	Ave_Y	Ave	29	NA	gold3	blue
+n96_Am_Ave_x4158_v3.5	Y	Ave_Y	Ave	30	NA	gold3	blue
+n96_Am_Ave_x4159_v3.5	Y	Ave_Y	Ave	31	NA	gold3	blue
+n96_Am_Ave_x4392_v3.5	Y	Ave_Y	Ave	32	NA	gold3	blue
+n96_Am_Ave_x4463_v3.5	Y	Ave_Y	Ave	33	NA	gold3	blue
+n96_Am_Ave_x4477_v3.5	Y	Ave_Y	Ave	34	NA	gold3	blue
+n96_Am_Ave_x4491_v3.5	Y	Ave_Y	Ave	35	NA	gold3	blue
+n96_Am_Ave_x4570_v3.5	Y	Ave_Y	Ave	36	NA	gold3	blue
+n96_Am_Ave_x4579_v3.5	Y	Ave_Y	Ave	37	NA	gold3	blue
+n96_Am_Ave_x4580_v3.5	Y	Ave_Y	Ave	38	NA	gold3	blue
+n96_Am_Ave_x3318_v3.5	FR	Ave_FR	Ave	1	NA	magenta3	blue
+n96_Am_Ave_x3327_v3.5	FR	Ave_FR	Ave	2	NA	magenta3	blue
+n96_Am_Ave_x3333_v3.5	FR	Ave_FR	Ave	3	NA	magenta3	blue
+n96_Am_Ave_x3394_v3.5	FR	Ave_FR	Ave	4	NA	magenta3	blue
+n96_Am_Ave_x4101_v3.5	FR	Ave_FR	Ave	5	NA	magenta3	blue
+n96_Am_Ave_x4102_v3.5	FR	Ave_FR	Ave	6	NA	magenta3	blue
+n96_Am_Ave_x4116_v3.5	FR	Ave_FR	Ave	7	NA	magenta3	blue
+n96_Am_Ave_x4161_v3.5	FR	Ave_FR	Ave	8	NA	magenta3	blue
+n96_Am_Ave_x4178_v3.5	FR	Ave_FR	Ave	9	NA	magenta3	blue
+n96_Am_Ave_x4359_v3.5	FR	Ave_FR	Ave	10	NA	magenta3	blue
+n96_Am_Ave_x4429_v3.5	FR	Ave_FR	Ave	11	NA	magenta3	blue
+n96_Am_Ave_x4459_v3.5	FR	Ave_FR	Ave	12	NA	magenta3	blue
+n96_Am_Ave_x4585_v3.5	FR	Ave_FR	Ave	13	NA	magenta3	blue
+n96_Am_Ave_x4593_v3.5	FR	Ave_FR	Ave	14	NA	magenta3	blue
+n96_Am_Ave_x4608_v3.5	FR	Ave_FR	Ave	15	NA	magenta3	blue
+n96_Am_Ave_x4624_v3.5	FR	Ave_FR	Ave	16	NA	magenta3	blue
+n96_Am_Ave_x4786_v3.5	FR	Ave_FR	Ave	17	NA	magenta3	blue
+n96_Am_Ave_x4837_v3.5	FR	Ave_FR	Ave	18	NA	magenta3	blue
+n96_Am_Ave_x4867_v3.5	FR	Ave_FR	Ave	19	NA	magenta3	blue
