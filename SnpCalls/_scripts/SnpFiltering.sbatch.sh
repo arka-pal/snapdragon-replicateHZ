@@ -67,7 +67,7 @@ echo -e "Filter Step 2: keep biSNPs based on QUAL, MQ, DP"
 srun time bcftools filter --threads $threads $inVCF -e "INFO/DP>130 | QUAL<20 | MQ<20" -Oz -o $outVCF --write-index
 
 echo -e "Filter Step 3: Remove SNPs with missing fraction > 0.8" 
-srun time bcftools filter --threads $threads $inVCF -e "F_MISSING>0.80" -Oz -o $outVCF --write-index
+srun time bcftools filter --threads $threads $inVCF -e "F_MISSING>0.80" -Oz $outVCF --write-index
 echo -e "\nDone"
 
 echo -e "Make pos file" 
