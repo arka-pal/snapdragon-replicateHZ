@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##### Run relate
+##### Run relate on snaphap_hz
 ##### author: Arka Pal
 ##### written: 29.08.2024
 ##### update: 29.08.2024
